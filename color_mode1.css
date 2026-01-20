@@ -1,0 +1,8 @@
+/* 左侧条 + 背景 +文字 */
+blockquote {
+    border-left: 6px solid #156acc;   /* 改这里即可换色 */
+    background-color: lch(1.16% 5.53 19.4);
+    color: #faf7f8;
+    padding: 1em 1.2em;
+    margin: 1em 0;
+}
